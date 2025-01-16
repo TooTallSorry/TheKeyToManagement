@@ -1,0 +1,181 @@
+2024-11-30 23:44:54,365 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-11-30 23:45:05,774 - INFO - Nouvelle connexion de ('127.0.0.1', 32112)
+2024-11-30 23:45:05,790 - INFO - Réponse envoyée à ('127.0.0.1', 32112) : Erreur : Rôle non reconnu.
+2024-11-30 23:45:05,790 - INFO - Connexion fermée avec ('127.0.0.1', 32112)
+2024-11-30 23:49:46,618 - INFO - Nouvelle connexion de ('127.0.0.1', 32377)
+2024-11-30 23:49:46,659 - INFO - Connexion fermée avec ('127.0.0.1', 32377)
+2024-11-30 23:49:46,662 - ERROR - Erreur base de données : column client.numerocarte does not exist
+LINE 2:                 SELECT Chambre.numeroChambre, Client.numeroC...
+                                                      ^
+
+2024-11-30 23:49:46,674 - INFO - Serveur arrêté.
+2024-11-30 23:52:41,570 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-11-30 23:53:16,237 - INFO - Nouvelle connexion de ('127.0.0.1', 32497)
+2024-11-30 23:53:16,275 - INFO - Connexion fermée avec ('127.0.0.1', 32497)
+2024-11-30 23:53:16,275 - ERROR - Erreur base de données : column client.numerocarte does not exist
+LINE 2:                 SELECT Chambre.numeroChambre, Client.numeroC...
+                                                      ^
+
+2024-11-30 23:53:16,277 - INFO - Serveur arrêté.
+2024-11-30 23:57:36,024 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-11-30 23:57:39,704 - INFO - Nouvelle connexion de ('127.0.0.1', 32748)
+2024-11-30 23:57:39,734 - INFO - Réponse envoyée à ('127.0.0.1', 32748) : Erreur : Identifiant, numéro de chambre ou réservation incorrect.
+2024-11-30 23:57:39,734 - INFO - Connexion fermée avec ('127.0.0.1', 32748)
+2024-12-01 00:00:47,842 - INFO - Nouvelle connexion de ('127.0.0.1', 32831)
+2024-12-01 00:00:47,868 - INFO - Réponse envoyée à ('127.0.0.1', 32831) : Erreur : Identifiant, numéro de chambre ou réservation incorrect.
+2024-12-01 00:00:47,869 - INFO - Connexion fermée avec ('127.0.0.1', 32831)
+2024-12-01 00:00:47,870 - INFO - Nouvelle connexion de ('127.0.0.1', 32832)
+2024-12-01 00:00:47,876 - INFO - Réponse envoyée à ('127.0.0.1', 32832) : Erreur : Identifiant, numéro de chambre ou réservation incorrect.
+2024-12-01 00:00:47,876 - INFO - Connexion fermée avec ('127.0.0.1', 32832)
+2024-12-01 00:02:46,076 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:02:49,877 - INFO - Nouvelle connexion de ('127.0.0.1', 32982)
+2024-12-01 00:02:49,911 - INFO - Réponse envoyée à ('127.0.0.1', 32982) : Erreur : Identifiant, numéro de chambre ou réservation incorrect.
+2024-12-01 00:02:49,911 - INFO - Connexion fermée avec ('127.0.0.1', 32982)
+2024-12-01 00:07:25,417 - INFO - Serveur arrêté.
+2024-12-01 00:07:39,082 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:09:33,386 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:09:37,242 - INFO - Nouvelle connexion de ('127.0.0.1', 33253)
+2024-12-01 00:09:37,276 - INFO - Réponse envoyée à ('127.0.0.1', 33253) : Erreur : Identifiant, numéro de chambre ou réservation incorrect.
+2024-12-01 00:09:37,276 - INFO - Connexion fermée avec ('127.0.0.1', 33253)
+2024-12-01 00:11:41,028 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:11:44,426 - INFO - Nouvelle connexion de ('127.0.0.1', 33404)
+2024-12-01 00:11:44,469 - INFO - Réponse envoyée à ('127.0.0.1', 33404) : Bienvenue client ! Réservation R001 validée pour la chambre 101.
+2024-12-01 00:11:44,469 - INFO - Connexion fermée avec ('127.0.0.1', 33404)
+2024-12-01 00:17:25,359 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:18:38,341 - INFO - Nouvelle connexion de ('127.0.0.1', 33710)
+2024-12-01 00:18:38,356 - INFO - Réponse envoyée à ('127.0.0.1', 33710) : Erreur : Rôle non reconnu. Les rôles valides sont : admin, client, employee.
+2024-12-01 00:18:38,356 - INFO - Connexion fermée avec ('127.0.0.1', 33710)
+2024-12-01 00:18:52,483 - INFO - Nouvelle connexion de ('127.0.0.1', 33719)
+2024-12-01 00:18:52,515 - INFO - Réponse envoyée à ('127.0.0.1', 33719) : Erreur : Accès non autorisé ou chambre incorrecte.
+2024-12-01 00:18:52,515 - INFO - Connexion fermée avec ('127.0.0.1', 33719)
+2024-12-01 00:19:48,855 - INFO - Nouvelle connexion de ('127.0.0.1', 33760)
+2024-12-01 00:19:48,877 - INFO - Réponse envoyée à ('127.0.0.1', 33760) : Erreur : Accès non autorisé ou chambre incorrecte.
+2024-12-01 00:19:48,877 - INFO - Connexion fermée avec ('127.0.0.1', 33760)
+2024-12-01 00:19:48,878 - INFO - Nouvelle connexion de ('127.0.0.1', 33761)
+2024-12-01 00:19:48,882 - INFO - Réponse envoyée à ('127.0.0.1', 33761) : Erreur : Accès non autorisé ou chambre incorrecte.
+2024-12-01 00:19:48,882 - INFO - Connexion fermée avec ('127.0.0.1', 33761)
+2024-12-01 00:20:17,192 - INFO - Nouvelle connexion de ('127.0.0.1', 33790)
+2024-12-01 00:20:17,211 - INFO - Réponse envoyée à ('127.0.0.1', 33790) : Erreur : Accès non autorisé ou chambre incorrecte.
+2024-12-01 00:20:17,211 - INFO - Connexion fermée avec ('127.0.0.1', 33790)
+2024-12-01 00:22:46,413 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:22:50,980 - INFO - Nouvelle connexion de ('127.0.0.1', 34025)
+2024-12-01 00:22:51,011 - INFO - Réponse envoyée à ('127.0.0.1', 34025) : Erreur : Accès non autorisé ou chambre/identifiant incorrect.
+2024-12-01 00:22:51,012 - INFO - Connexion fermée avec ('127.0.0.1', 34025)
+2024-12-01 00:26:21,768 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:26:24,362 - INFO - Nouvelle connexion de ('127.0.0.1', 34336)
+2024-12-01 00:26:24,414 - INFO - Réponse envoyée à ('127.0.0.1', 34336) : Bienvenue employé E001 ! Tâche de nettoyage autorisée pour la chambre 102.
+2024-12-01 00:26:24,414 - INFO - Connexion fermée avec ('127.0.0.1', 34336)
+2024-12-01 00:26:31,983 - INFO - Nouvelle connexion de ('127.0.0.1', 34348)
+2024-12-01 00:26:32,008 - INFO - Réponse envoyée à ('127.0.0.1', 34348) : Erreur : Accès non autorisé ou chambre/identifiant incorrect.
+2024-12-01 00:26:32,009 - INFO - Connexion fermée avec ('127.0.0.1', 34348)
+2024-12-01 00:27:01,121 - INFO - Nouvelle connexion de ('127.0.0.1', 34405)
+2024-12-01 00:27:01,160 - INFO - Réponse envoyée à ('127.0.0.1', 34405) : Erreur : Identifiant, numéro de chambre ou réservation incorrect.
+2024-12-01 00:27:01,160 - INFO - Connexion fermée avec ('127.0.0.1', 34405)
+2024-12-01 00:27:27,021 - INFO - Nouvelle connexion de ('127.0.0.1', 34455)
+2024-12-01 00:27:27,039 - INFO - Connexion fermée avec ('127.0.0.1', 34455)
+2024-12-01 00:27:27,039 - ERROR - Erreur base de données : column "numerocarte" does not exist
+LINE 1: SELECT numeroCarte FROM Employee WHERE idEmploye = 'E002'
+               ^
+
+2024-12-01 00:27:27,044 - INFO - Serveur arrêté.
+2024-12-01 00:27:44,381 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:27:45,915 - INFO - Nouvelle connexion de ('127.0.0.1', 34494)
+2024-12-01 00:27:45,952 - INFO - Réponse envoyée à ('127.0.0.1', 34494) : Erreur : Identifiant, numéro de chambre ou réservation incorrect.
+2024-12-01 00:27:45,952 - INFO - Connexion fermée avec ('127.0.0.1', 34494)
+2024-12-01 00:30:01,288 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:30:05,115 - INFO - Nouvelle connexion de ('127.0.0.1', 34787)
+2024-12-01 00:30:05,138 - INFO - Réponse envoyée à ('127.0.0.1', 34787) : Erreur : Numéro de réservation incorrect.
+2024-12-01 00:30:05,138 - INFO - Connexion fermée avec ('127.0.0.1', 34787)
+2024-12-01 00:30:29,134 - INFO - Nouvelle connexion de ('127.0.0.1', 34840)
+2024-12-01 00:30:29,157 - INFO - Réponse envoyée à ('127.0.0.1', 34840) : Bienvenue administrateur E002 !
+2024-12-01 00:30:29,159 - INFO - Connexion fermée avec ('127.0.0.1', 34840)
+2024-12-01 00:30:29,159 - INFO - Nouvelle connexion de ('127.0.0.1', 34841)
+2024-12-01 00:30:29,166 - INFO - Réponse envoyée à ('127.0.0.1', 34841) : Bienvenue administrateur E002 !
+2024-12-01 00:30:29,166 - INFO - Connexion fermée avec ('127.0.0.1', 34841)
+2024-12-01 00:30:52,477 - INFO - Nouvelle connexion de ('127.0.0.1', 34893)
+2024-12-01 00:30:52,499 - INFO - Réponse envoyée à ('127.0.0.1', 34893) : Erreur : Aucun enregistrement trouvé pour cet employé.
+2024-12-01 00:30:52,500 - INFO - Connexion fermée avec ('127.0.0.1', 34893)
+2024-12-01 00:32:10,840 - INFO - Nouvelle connexion de ('127.0.0.1', 35058)
+2024-12-01 00:32:10,864 - INFO - Réponse envoyée à ('127.0.0.1', 35058) : Erreur : Numéro de réservation incorrect.
+2024-12-01 00:32:10,864 - INFO - Connexion fermée avec ('127.0.0.1', 35058)
+2024-12-01 00:33:28,435 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:33:30,757 - INFO - Nouvelle connexion de ('127.0.0.1', 35269)
+2024-12-01 00:33:30,796 - INFO - Réponse envoyée à ('127.0.0.1', 35269) : Erreur : Numéro de réservation incorrect.
+2024-12-01 00:33:30,796 - INFO - Connexion fermée avec ('127.0.0.1', 35269)
+2024-12-01 00:34:56,782 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:34:59,555 - INFO - Nouvelle connexion de ('127.0.0.1', 35555)
+2024-12-01 00:34:59,591 - INFO - Réponse envoyée à ('127.0.0.1', 35555) : Erreur : Numéro de réservation incorrect.
+2024-12-01 00:34:59,591 - INFO - Connexion fermée avec ('127.0.0.1', 35555)
+2024-12-01 00:34:59,591 - INFO - Nouvelle connexion de ('127.0.0.1', 35556)
+2024-12-01 00:34:59,597 - INFO - Réponse envoyée à ('127.0.0.1', 35556) : Erreur : Numéro de réservation incorrect.
+2024-12-01 00:34:59,597 - INFO - Connexion fermée avec ('127.0.0.1', 35556)
+2024-12-01 00:35:59,613 - INFO - Fermeture du serveur après période d'inactivité.
+2024-12-01 00:35:59,628 - INFO - Serveur arrêté.
+2024-12-01 00:38:46,196 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:38:49,785 - INFO - Nouvelle connexion de ('127.0.0.1', 36300)
+2024-12-01 00:38:49,809 - INFO - Résultat SQL : ('101', 'R001        '), Données reçues : room_number=101, idreservation=R001
+2024-12-01 00:38:49,810 - INFO - Réponse envoyée à ('127.0.0.1', 36300) : Erreur : Numéro de réservation incorrect.
+2024-12-01 00:38:49,810 - INFO - Connexion fermée avec ('127.0.0.1', 36300)
+2024-12-01 00:39:49,792 - INFO - Fermeture du serveur après période d'inactivité.
+2024-12-01 00:39:49,797 - INFO - Serveur arrêté.
+2024-12-01 00:40:51,554 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:40:54,645 - INFO - Nouvelle connexion de ('127.0.0.1', 36693)
+2024-12-01 00:40:54,671 - INFO - Résultat SQL : ('101', 'R001        '), Données reçues : room_number=101, idreservation=R001
+2024-12-01 00:40:54,671 - INFO - Réponse envoyée à ('127.0.0.1', 36693) : Erreur : Numéro de réservation incorrect.
+2024-12-01 00:40:54,671 - INFO - Connexion fermée avec ('127.0.0.1', 36693)
+2024-12-01 00:41:54,646 - INFO - Fermeture du serveur après période d'inactivité.
+2024-12-01 00:41:54,648 - INFO - Serveur arrêté.
+2024-12-01 00:42:39,413 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:42:41,612 - INFO - Nouvelle connexion de ('127.0.0.1', 37044)
+2024-12-01 00:42:41,653 - INFO - Connexion fermée avec ('127.0.0.1', 37044)
+2024-12-01 00:42:41,654 - ERROR - Erreur base de données : relation "rreservation" does not exist
+LINE 3:                 FROM Rreservation
+                             ^
+
+2024-12-01 00:42:41,654 - INFO - Serveur arrêté.
+2024-12-01 00:42:46,958 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:42:48,804 - INFO - Nouvelle connexion de ('127.0.0.1', 37068)
+2024-12-01 00:42:48,827 - INFO - Connexion fermée avec ('127.0.0.1', 37068)
+2024-12-01 00:42:48,827 - ERROR - Erreur base de données : relation "rreservation" does not exist
+LINE 3:                 FROM Rreservation
+                             ^
+
+2024-12-01 00:42:48,827 - INFO - Serveur arrêté.
+2024-12-01 00:43:44,470 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:43:47,359 - INFO - Nouvelle connexion de ('127.0.0.1', 37238)
+2024-12-01 00:43:47,381 - INFO - Connexion fermée avec ('127.0.0.1', 37238)
+2024-12-01 00:43:47,381 - ERROR - Erreur base de données : missing FROM-clause entry for table "cchambre"
+LINE 2:                 SELECT Cchambre.numerochambre, Reservation.i...
+                               ^
+
+2024-12-01 00:43:47,382 - INFO - Serveur arrêté.
+2024-12-01 00:44:31,886 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:44:34,614 - INFO - Nouvelle connexion de ('127.0.0.1', 37394)
+2024-12-01 00:44:34,651 - INFO - Résultat SQL : ('101', 'R001        '), Données reçues : room_number=101, idreservation=R001
+2024-12-01 00:44:34,651 - INFO - Réponse envoyée à ('127.0.0.1', 37394) : Erreur : Numéro de réservation incorrect.
+2024-12-01 00:44:34,651 - INFO - Connexion fermée avec ('127.0.0.1', 37394)
+2024-12-01 00:45:34,620 - INFO - Fermeture du serveur après période d'inactivité.
+2024-12-01 00:45:34,622 - INFO - Serveur arrêté.
+2024-12-01 00:46:30,801 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 00:46:34,046 - INFO - Nouvelle connexion de ('127.0.0.1', 37777)
+2024-12-01 00:46:34,073 - INFO - Résultat SQL : ('101', 'R001        '), Données reçues : room_number=101, idreservation=R001        
+2024-12-01 00:46:34,073 - INFO - Réponse envoyée à ('127.0.0.1', 37777) : Bienvenue client CL2807 !
+2024-12-01 00:46:34,073 - INFO - Connexion fermée avec ('127.0.0.1', 37777)
+2024-12-01 00:47:21,264 - INFO - Nouvelle connexion de ('127.0.0.1', 37922)
+2024-12-01 00:47:21,285 - INFO - Réponse envoyée à ('127.0.0.1', 37922) : Bienvenue employé E001     ! Tâche de nettoyage autorisée pour la chambre 102.
+2024-12-01 00:47:21,285 - INFO - Connexion fermée avec ('127.0.0.1', 37922)
+2024-12-01 00:48:21,266 - INFO - Fermeture du serveur après période d'inactivité.
+2024-12-01 00:48:21,268 - INFO - Serveur arrêté.
+2024-12-01 01:09:27,484 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 01:09:29,897 - INFO - Nouvelle connexion de ('127.0.0.1', 39930)
+2024-12-01 01:09:29,927 - INFO - Résultat SQL : ('101', 'R001        '), Données reçues : room_number=101, idreservation=R001        
+2024-12-01 01:09:29,927 - INFO - Réponse envoyée à ('127.0.0.1', 39930) : Bienvenue client CL2807 !
+2024-12-01 01:09:29,927 - INFO - Connexion fermée avec ('127.0.0.1', 39930)
+2024-12-01 01:10:29,901 - INFO - Fermeture du serveur après période d'inactivité.
+2024-12-01 01:10:29,907 - INFO - Serveur arrêté.
+2024-12-01 01:11:04,055 - INFO - Serveur démarré sur 127.0.0.1:8008
+2024-12-01 01:11:05,720 - INFO - Nouvelle connexion de ('127.0.0.1', 40213)
+2024-12-01 01:11:05,746 - INFO - Réponse envoyée à ('127.0.0.1', 40213) : Bienvenue administrateur E001     !
+2024-12-01 01:11:05,746 - INFO - Connexion fermée avec ('127.0.0.1', 40213)
+2024-12-01 01:12:05,730 - INFO - Fermeture du serveur après période d'inactivité.
+2024-12-01 01:12:05,730 - INFO - Serveur arrêté.
